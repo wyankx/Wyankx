@@ -1,5 +1,5 @@
 ``` python
-print('👋Hi!')
+print('Hi!')
 ```
 - I’m Sadikov Magomed
 - 🌱 I’m currently learning [python](https://www.python.org)
